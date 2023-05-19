@@ -1,0 +1,8 @@
+C:\Users\shahi\OneDrive\دسکتاپ\GitNewProject\MaktabTeamWork\MaktabTeamWork\maktabTeamWork\bin\Debug\maktabTeamWork.exe.config
+C:\Users\shahi\OneDrive\دسکتاپ\GitNewProject\MaktabTeamWork\MaktabTeamWork\maktabTeamWork\bin\Debug\maktabTeamWork.exe
+C:\Users\shahi\OneDrive\دسکتاپ\GitNewProject\MaktabTeamWork\MaktabTeamWork\maktabTeamWork\bin\Debug\maktabTeamWork.pdb
+C:\Users\shahi\OneDrive\دسکتاپ\GitNewProject\MaktabTeamWork\MaktabTeamWork\maktabTeamWork\obj\Debug\maktabTeamWork.csproj.AssemblyReference.cache
+C:\Users\shahi\OneDrive\دسکتاپ\GitNewProject\MaktabTeamWork\MaktabTeamWork\maktabTeamWork\obj\Debug\maktabTeamWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\shahi\OneDrive\دسکتاپ\GitNewProject\MaktabTeamWork\MaktabTeamWork\maktabTeamWork\obj\Debug\maktabTeamWork.csproj.CoreCompileInputs.cache
+C:\Users\shahi\OneDrive\دسکتاپ\GitNewProject\MaktabTeamWork\MaktabTeamWork\maktabTeamWork\obj\Debug\maktabTeamWork.exe
+C:\Users\shahi\OneDrive\دسکتاپ\GitNewProject\MaktabTeamWork\MaktabTeamWork\maktabTeamWork\obj\Debug\maktabTeamWork.pdb
