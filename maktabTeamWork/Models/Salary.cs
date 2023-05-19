@@ -10,10 +10,10 @@ namespace maktabTeamWork.Models
     {
         public int Id { get; set; }
         public  decimal Amount { get; set; }    
-        public string Tax { get; set; }
-        public string OrtherBenefit { get; set; }
+        public decimal Tax { get; set; }
+        public decimal OrtherBenefit { get; set; }
         public int EmployeeId { get; set; } 
         public int Year { get; set; }   
-        public int Month { get; set; }
+        public string Month { get; set; }
     }
 }
