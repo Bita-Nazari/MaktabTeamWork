@@ -8,12 +8,12 @@ namespace maktabTeamWork.Models
 {
     public class Employee
     {
+        public int EmployeeID { get; set; }
         public string FName { get; set; }  
         public string LName { get; set; }   
-        public int EmployeeID { get; set; }
-        public  int Nationalcode { get; set; }
-        public int Mobile { get; set; }
-        public string Gender { get; set; }  
+        public  string Nationalcode { get; set; }
+        public string Mobile { get; set; }
+        public Genders Gender { get; set; }  
         public string Email { get; set; }
     }
 }
